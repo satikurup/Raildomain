@@ -43,6 +43,7 @@ st.title("Rail Platform Solutions")
 if rad=="CrowdAnalysis":
    st.write("CrowdAnalysis")
    st.video("crowd.mp4")
+   st.button("live")
 if rad=="Unattended Baggage Detection":
    st.video("myvide.mp4")
 if rad==("Blind person detection"):
