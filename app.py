@@ -41,16 +41,9 @@ rad = st.sidebar.selectbox(
 )   
 st.title("Rail Platform Solutions")
 if rad=="CrowdAnalysis":
-   st.write("CrowdAnalysis..")
+   st.write("CrowdAnalysis")
    st.video("crowd.mp4")
-   if st.button('Check with a live video'):
-    st.write("check with live video")
-        
-
-    
 if rad=="Unattended Baggage Detection":
-   st.write("Unattended Baggage Detection")
    st.video("myvide.mp4")
 if rad==("Blind person detection"):
-    st.write("Blind person detection")
     st.video("blind.mp4")
