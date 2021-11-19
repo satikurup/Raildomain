@@ -45,6 +45,6 @@ if rad=="CrowdAnalysis":
    st.video("crowd.mp4")
    
 if rad=="Unattended Baggage Detection":
-   st.video("myvide.mp4")
+   st.video("16-25-02.mp4")
 if rad==("Blind person detection"):
     st.video("16-25-02.mp4")
